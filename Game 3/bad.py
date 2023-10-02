@@ -1,0 +1,23 @@
+bear = 15
+wizard = 30
+goblin = 8
+turtle = 20
+demon = 25
+knight = 50
+peasant = 5
+Champion = 55
+King = 30
+rabbit = 3
+coconut = 175
+banana = 12
+magic_rock = 38
+dysentary = 73
+evil_coin = 32
+lanny = 129
+troll = 17
+deer = 2
+shaodow = 18
+
+bad_guys = [bear,wizard,goblin,turtle,demon,knight,peasant,Champion,King,rabbit,coconut, banana,magic_rock,dysentary,evil_coin,lanny,troll,deer,shaodow]
+bad_names = ["Bear","Wizard","Goblin","Turtle","Demon","Knight","Peasant","Champion","King","Rabbit","Coconut","Banana","Magic Rock","Dysentary","Evil Coin","Lanny","Troll","Deer","Shaodow"]
+bad_level = [2,3,1,1,4,3,1,6,5,0,10,10,9,8,4,6,2,0,3]
