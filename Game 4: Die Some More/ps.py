@@ -1,0 +1,11 @@
+health = 100
+gold = 10
+exposure = 0.90
+hunger = 0
+time = 0
+risk = 0
+rng = 0
+food = 3
+bonusK = 0
+inventory = []
+location = ""
